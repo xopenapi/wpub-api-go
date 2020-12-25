@@ -1,0 +1,6 @@
+data
+.vscode
+.idea
+.gitconfig
+id_rsa
+application.json
